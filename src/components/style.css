@@ -1,0 +1,29 @@
+.searchcontainer{
+    position: relative;
+}
+  
+  .icon {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 7px; /* Adjust the left position according to your preference */
+  }
+  
+  .icon img {
+    height: 2rem; /* Adjust the height of the icon as needed */
+    width: 2rem; /* Maintain aspect ratio */
+  }
+  
+.mic-icon{
+    position:absolute;
+    right: 10px;
+    top: 11px;
+    
+}
+
+.mic-icon img{
+    width: 1.5rem;
+    height: 1.5rem;
+
+}
+
