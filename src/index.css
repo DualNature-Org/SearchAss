@@ -5,3 +5,8 @@ body{
   background: #131313;
   min-height: 100vh;
 }
+
+a{
+  color: aqua;
+  text-decoration: none;
+}
